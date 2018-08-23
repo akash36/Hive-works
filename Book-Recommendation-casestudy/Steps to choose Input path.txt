@@ -1,0 +1,5 @@
+1. Open the .csv file in MS Excel
+2. Goto Data tab and click upon Text to Columns
+3. Choose delimited and click next
+4. Select applicable delimiters and click next
+5. Set the destination field on the excel sheet and click finish
