@@ -33,4 +33,4 @@ stored as textfile;
 
 
 
-load data local inpath '/home/abhi97/Desktop/adata.txt' overwrite into table aad; 
+load data local inpath '/home/ak/Desktop/adata.txt' overwrite into table aad; 
